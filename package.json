@@ -1,7 +1,7 @@
 {
-  "name": "npm-check",
-  "version": "5.9.0",
-  "description": "Check for outdated, incorrect, and unused dependencies.",
+  "name": "npm-check-support-yarn",
+  "version": "0.0.1",
+  "description": "Check for outdated, incorrect, and unused dependencies. Supporting yarn. Forked from npm-check repo",
   "main": "lib",
   "engines": {
     "node": ">=0.11.0"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dylang/npm-check.git"
+    "url": "https://github.com/zbw322092/npm-check/tree/forkv0.0.4"
   },
   "keywords": [
     "npm",
@@ -51,14 +51,11 @@
     "devDependencies"
   ],
   "author": {
-    "name": "Dylan Greene",
-    "email": "dylang@gmail.com"
+    "name": "Bowen Zhong",
+    "email": "zbw322092@hotmail.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dylang/npm-check/issues"
-  },
-  "homepage": "https://github.com/dylang/npm-check",
+  "homepage": "https://github.com/zbw322092/npm-check/tree/forkv0.0.4",
   "files": [
     "bin",
     "lib",
